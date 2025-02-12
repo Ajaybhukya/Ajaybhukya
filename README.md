@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Anti-Spoof Attendance system**
 
-- 🌱 I’m currently learning **Data Analytics, Machine Learning & AI**
+- 🌱 I’m currently learning **Data Analytics, Machine Learning & AI, Software Development**
 
 - 📫 How to reach me **ajaykumarbhukya511@gmail.com**
 
