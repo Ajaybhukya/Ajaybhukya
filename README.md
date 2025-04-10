@@ -35,10 +35,6 @@
 - Classified sentiment as Positive, Neutral, or Negative
 - Built an interactive dashboard with Streamlit for real-time insights
 
-### 🔹 [Student Record Viewer (Python & MySQL)](https://github.com/Ajaybhukya/Student-Record-Viewer-Using-Python-GUI-And-MYSQL.git)
-- GUI-based application for managing student records
-- Implemented full CRUD functionality integrated with MySQL
-
 ### 🔹 [Cloned Voice Chatbot with Speech Recognition & AI](https://github.com/Ajaybhukya/Cloned-Voice-ChatBot-with-Speech-Recognition-and-AI-Responses.git)
 - Voice-interactive chatbot using SpeechRecognition API and Gemini AI
 - Features include real-time voice-to-text, chat history, ambient noise adjustment, and error handling
