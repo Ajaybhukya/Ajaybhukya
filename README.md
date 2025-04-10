@@ -25,7 +25,7 @@
 
 ## 💼 Featured Projects
 
-### 🔹 [Smart Attendance System with Deep Learning](https://github.com/Ajaybhukya](https://github.com/Ajaybhukya/Anti-spoof-face-recognition-system.git)
+### 🔹 [Smart Attendance System with Deep Learning](https://github.com/Ajaybhukya/Anti-spoof-face-recognition-system.git)
 - Developed real-time face recognition using OpenCV, Dlib, and DeepFace
 - Integrated AI chatbot, email notifications, and voice alerts for enhanced communication
 - Built with a modular Python backend and a Streamlit-based UI for user interaction
