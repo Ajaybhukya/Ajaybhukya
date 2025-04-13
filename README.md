@@ -7,7 +7,7 @@
 📌 Passionate about building AI-driven solutions that solve real-world problems  
 💡 Currently exploring **Machine Learning**, **Data Analytics**, **AI Applications**, and **Software Development**  
 📫 Reach me at **ajaykumarbhukya511@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/ajay-kumar8688) • [GitHub].(https://github.com/Ajaybhukya) • [Instagram](https://instagram.com/mr_ajay_5_)
+🔗 [LinkedIn](https://www.linkedin.com/in/ajay-kumar8688) • [GitHub](https://github.com/Ajaybhukya) • [Instagram](https://instagram.com/mr_ajay_5_)
 - 📄 [Check out my resume](https://drive.google.com/file/d/10UGv93_3wF9LvLsDRBwhB74WgvJebK3r/view?usp=drive_link)
 ---
 
