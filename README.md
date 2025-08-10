@@ -8,7 +8,7 @@
 💡 Currently exploring **Machine Learning**, **Data Analytics**, **AI Applications**, and **Software Development**  
 📫 Reach me at **ajaykumarbhukya511@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/ajay-kumar8688) • [GitHub](https://github.com/Ajaybhukya) • [Instagram](https://instagram.com/mr_ajay_5_)
-- 📄 [Check out my resume](https://drive.google.com/file/d/10UGv93_3wF9LvLsDRBwhB74WgvJebK3r/view?usp=drive_link)
+
 ---
 
 ## 🛠️ Skills & Technologies
@@ -65,14 +65,6 @@
   → Gained practical exposure in IoT, ML, Deep Learning, and OpenCV through guided projects and mentorship
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ajaybhukya&show_icons=true&theme=dracula&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaybhukya&layout=compact&theme=dracula" height="150" />
-</p>
-
 ---
 
 ⭐ _“Turning data into insights and code into solutions..”_  
