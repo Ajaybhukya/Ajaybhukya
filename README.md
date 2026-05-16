@@ -173,13 +173,8 @@ Every project has been a step toward becoming a stronger engineer capable of bui
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ajaybhukya&show_icons=true&theme=tokyonight" height="180"/>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajaybhukya&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaybhukya&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
