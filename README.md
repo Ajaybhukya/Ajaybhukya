@@ -79,8 +79,6 @@ I enjoy continuously learning modern technologies and turning complex ideas into
 
 ### 📈 Tools & Platforms
 - Git & GitHub
-- Jira
-- ClickUp
 - DBeaver
 - Power BI
 - Postman
