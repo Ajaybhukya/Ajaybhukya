@@ -1,80 +1,201 @@
 <h1 align="center">Hi 👋, I'm Ajay Kumar Bhukya</h1>
-<h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast | Python & SQL Developer | Open Source Contributor</h3>
+
+<h3 align="center">
+Software Engineer | AI Systems Engineer | Backend Developer | DevOps & Automation Enthusiast
+</h3>
+
+<p align="center">
+Building scalable AI-driven systems, intelligent automation platforms, and production-ready backend applications.
+</p>
 
 ---
 
-🎓 **Computer Science & Data Science Undergrad** | Avanthi Institute of Engineering & Technology, Hyderabad  
-📌 Passionate about building AI-driven solutions that solve real-world problems  
-💡 Currently exploring **Machine Learning**, **Data Analytics**, **AI Applications**, and **Software Development**  
-📫 Reach me at **ajaykumarbhukya511@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/ajay-kumar8688) • [GitHub](https://github.com/Ajaybhukya) • [Instagram](https://instagram.com/mr_ajay_5_)
+## 🚀 About Me
+
+I’m a Software Engineer passionate about building intelligent systems that combine AI, backend engineering, and cloud technologies to solve real-world business problems.
+
+My journey started with Python, Data Science, and Machine Learning, and gradually evolved into developing enterprise-grade AI applications, Agentic AI systems, REST APIs, automation workflows, and scalable cloud-native platforms.
+
+Currently, I focus on:
+
+- 🤖 AI-powered applications & Agentic AI systems
+- 🧠 LLM integrations, RAG pipelines & intelligent workflows
+- ⚙️ Backend engineering with scalable API architectures
+- ☁️ Cloud deployment, DevOps & CI/CD automation
+- 🔄 Multi-agent orchestration & enterprise automation systems
+- 📊 Building reliable systems with clean architecture principles
+
+I enjoy continuously learning modern technologies and turning complex ideas into practical, production-ready solutions.
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tech Stack
 
-**Languages**: Python, SQL, C, Java  
-**Web**: HTML5, CSS3, JavaScript  
-**Frameworks**: Streamlit  
-**Libraries**: NumPy, Pandas, Matplotlib, OpenCV, Scikit-learn, DeepFace, Dlib  
-**Tools**: Git, GitHub, Jupyter Notebook, MySQL Server, MS Office, Google Workspace, Power BI  
-**Core Concepts**: OOP, DSA, Data Cleaning, EDA, ML Algorithms, NLP, Database Management  
-**Soft Skills**: Problem Solving, Critical Thinking, Communication, Teamwork, Adaptability
-<table align="center">
-<tr>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/></td>
-<td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50"/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/></td>
-<td><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50"/></td>
-<td><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="50"/></td>
-<td><img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="50"/></td>
-<td><img src="https://img.icons8.com/color/48/power-bi.png" width="50"/></td>
-</tr>
-</table>
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,c,sql" />
+</p>
+
+### ⚡ Backend & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,spring,django,flask" />
+</p>
+
+### 🤖 AI / ML / Data
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/>
+</p>
+
+### 🧠 AI Engineering
+- LangChain
+- LangGraph
+- LangSmith
+- Retrieval-Augmented Generation (RAG)
+- Vector Databases
+- Multi-Agent Systems
+- LLM Workflows
+- Prompt Engineering
+
+### 🌐 Frontend & UI
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,nginx,linux,git" />
+</p>
+
+### 📈 Tools & Platforms
+- Git & GitHub
+- Jira
+- ClickUp
+- DBeaver
+- Power BI
+- Postman
+- Jupyter Notebook
 
 ---
 
-## 💼 Featured Projects
+## 💼 Engineering Experience & Impact
 
-### 🔹 [Smart Attendance System with Deep Learning](https://github.com/Ajaybhukya/Anti-spoof-face-recognition-system.git)
-- Developed real-time face recognition using OpenCV, Dlib, and DeepFace
-- Integrated AI chatbot, email notifications, and voice alerts for enhanced communication
-- Built with a modular Python backend and a Streamlit-based UI for user interaction
+### 🔹 Enterprise Backend & Workflow Systems
+- Designed and developed scalable REST APIs for workflow-driven enterprise platforms
+- Built secure role-based access control systems for employees, managers, and administrators
+- Implemented automation logic for scheduling, validations, approvals, and reporting workflows
+- Optimized relational database schemas and complex SQL queries for performance and scalability
+- Worked on deployment, integration, and maintenance of backend services in cloud environments
 
-### 🔹 [Sentiment Analysis on Product Reviews](https://github.com/Ajaybhukya/Sentiment-Analysis-on-Product-Reviews-using-Data-Analytics.git)
-- Processed 2,000+ reviews using NLP techniques
-- Classified sentiment as Positive, Neutral, or Negative
-- Built an interactive dashboard with Streamlit for real-time insights
+### 🔹 AI Engineering & Intelligent Automation
+- Developed Agentic AI systems using multi-agent orchestration architectures
+- Built AI-powered workflows integrating LLM reasoning with structured business logic
+- Engineered intelligent decision systems capable of automated analysis and recommendations
+- Implemented scalable AI pipelines combining deterministic processing with generative AI capabilities
+- Worked on explainable AI-driven automation for real-world enterprise use cases
 
-### 🔹 [Cloned Voice Chatbot with Speech Recognition & AI](https://github.com/Ajaybhukya/Cloned-Voice-ChatBot-with-Speech-Recognition-and-AI-Responses.git)
-- Voice-interactive chatbot using SpeechRecognition API and Gemini AI
-- Features include real-time voice-to-text, chat history, ambient noise adjustment, and error handling
+### 🔹 Retrieval-Augmented Generation (RAG) & LLM Applications
+- Designed and implemented Retrieval-Augmented Generation (RAG) pipelines
+- Integrated vector databases and embedding-based similarity search systems
+- Developed context-aware AI assistants capable of domain-specific knowledge retrieval
+- Built structured document ingestion and knowledge enrichment workflows
+- Created interactive AI interfaces for real-time intelligent user interactions
+
+### 🔹 Cloud, DevOps & Deployment
+- Containerized applications using Docker for scalable deployments
+- Worked with AWS cloud infrastructure and Linux-based deployment environments
+- Built and managed CI/CD workflows for automated integration and deployment
+- Configured reverse proxies, server environments, and deployment pipelines
+- Focused on scalable infrastructure, maintainability, and production readiness
 
 ---
 
-## 📜 Certifications & Training
+## 📚 Continuous Learning
 
-- **Mastering SQL** – Intellipaat  
-- **Programming in Python** – Cisco Networking Academy  
-- **CodeUnnati Training Program** – EduNet & SAP Foundation  
-  → Gained practical exposure in IoT, ML, Deep Learning, and OpenCV through guided projects and mentorship
+I strongly believe in learning by building.
+
+Over the years, I’ve explored:
+
+- Machine Learning & Deep Learning
+- AI System Design
+- Backend Architecture
+- Cloud Infrastructure
+- DevOps & Automation
+- Distributed Systems
+- NLP & LLM Applications
+- Data Structures & Algorithms
+- System Design Concepts
+
+Every project has been a step toward becoming a stronger engineer capable of building scalable and intelligent systems.
 
 ---
+
+## 🏆 Certifications & Learning
+
+- AI & Machine Learning Training Programs
+- Python Programming Certifications
+- SQL & Database Development
+- Data Analytics & Visualization
+- Cloud & Backend Engineering Learning Tracks
+
 ---
 
-⭐ _“Turning data into insights and code into solutions..”_  
+## 📫 Connect With Me
 
-## 👨‍💻 My Contribution
-<!-- Snake Animation -->
+<p align="left">
+<a href="mailto:ajaykumarbhukya511@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ajay-kumar8688">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Ajaybhukya">
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/mr_ajay_5_">
+  <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ajaybhukya&show_icons=true&theme=tokyonight" height="180"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajaybhukya&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaybhukya&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
 <div align="center">
-    
-  ![snake gif](https://github.com/Ajaybhukya/Ajaybhukya/blob/output/github-snake-dark.svg)
+
+![snake gif](https://github.com/Ajaybhukya/Ajaybhukya/blob/output/github-snake-dark.svg)
+
 </div>
 
+---
+
+<h3 align="center">
+"Building intelligent systems that bridge AI, automation, and scalable engineering."
+</h3>
